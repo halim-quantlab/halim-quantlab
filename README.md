@@ -1,5 +1,5 @@
 👋 Hi, I'm Wielly Halim (a.k.a. @WilH22)
-🚀 Aspiring Quant | 🎓 NUS MFE Candidate | 💻 Python & C++ Explorer | 📍 Singapore
+🚀 Aspiring Quant | 🎓 NUS MQF Candidate | 💻 Python & C++ Explorer | 📍 Singapore
 
 Welcome to my GitHub — where code meets finance, and theory meets execution.
 
@@ -38,8 +38,7 @@ Open-source tools for financial modeling, simulation, and analytics
 
 
 📫 How to Reach Me
-📧 Email: wiellyhalim92@gmail.com
-
+📧 Email: wiellyhalim92@gmail.com / wiellyhalim92@icloud.com
 💼 LinkedIn: linkedin.com/in/wiellyhalim
 
 <!---
