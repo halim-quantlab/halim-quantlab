@@ -1,47 +1,134 @@
-👋 Hi, I'm Wielly Halim (a.k.a. @WilH22)
-🚀 Aspiring Quant | 🎓 NUS MQF Candidate | 💻 Python & C++ Explorer | 📍 Singapore
+# 👋 Hi, I'm Wielly Halim
 
-Welcome to my GitHub — where code meets finance, and theory meets execution.
+🚀 Aspiring Quantitative Researcher  
+🎓 Incoming NUS MQF Candidate  
+💻 Python & C++ for Financial Modeling  
+📍 Singapore  
 
-💼 My Interests
+Welcome to **halim-quantlab**, where I explore quantitative finance through code and experimentation.  
+My goal is to build a strong foundation in **financial engineering, stochastic modeling, and quantitative research**.
 
-Quantitative finance & factor models (CAPM, FF3/FF5) 📊
+---
 
-Portfolio optimization & risk management 🧮
+# 💼 Interests
 
-Financial engineering & stochastic processes 🔍
+📊 Quantitative Finance & Asset Pricing  
+- CAPM  
+- Fama-French Factor Models (FF3 / FF5)
 
-Data-driven decision making using Python & SQL 🐍💾
+📈 Portfolio Optimization & Risk Management  
+- Modern Portfolio Theory  
+- Efficient Frontier  
+- Value at Risk (VaR)
 
-🧠 Currently Exploring
+🔍 Financial Engineering  
+- Derivatives Pricing  
+- Stochastic Processes  
+- Monte Carlo Simulation
 
-Fama-French 3-Factor & 5-Factor models for asset pricing
+💻 Computational Finance  
+- Python for rapid prototyping  
+- C++ for numerical performance  
+- SQL for financial data analysis
 
-Monte Carlo simulation & Value at Risk (VaR)
+---
 
-Advanced Python & C++ for quant modeling
+# 🧠 Currently Learning
 
-Machine learning for financial time series
+- Monte Carlo methods for derivatives pricing  
+- Variance reduction techniques (Antithetic Variates, Control Variates)  
+- Stochastic calculus foundations  
+- Financial machine learning for time series
 
-🔗 Featured Projects
+---
 
-Fama-French Models: Regression & portfolio optimization using FF3 factors, with visualization and CSV output for performance metrics.
+# 🔬 Featured Projects
 
-MPT Optimizer: Portfolio optimizer using cvxpy and yfinance, comparing efficient frontier vs. individual assets.
+## 📘 Wilmott Quant Foundations
+Implementation of concepts from **Paul Wilmott – Introduces Quantitative Finance**
 
-🤝 Looking to Collaborate On
+Key features:
 
-Fintech or quant research projects using real-world market data
+- Forward pricing and arbitrage detection
+- Geometric Brownian Motion (GBM) simulation
+- Monte Carlo option pricing
+- Asian and European options
+- Black–Scholes analytical pricing
+- Greeks computation
+- Put–Call parity validation
+- Python and C++ implementations
 
-Open-source tools for financial modeling, simulation, and analytics
+---
 
+## 📊 Fama-French Factor Models
 
+Asset pricing analysis using **Fama-French 3-Factor and 5-Factor models**
 
-📫 How to Reach Me
-📧 Email: wiellyhalim92@gmail.com / wiellyhalim92@icloud.com
-💼 LinkedIn: linkedin.com/in/wiellyhalim
+Features:
 
-<!---
-WilH22/WilH22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Factor regression analysis
+- Portfolio construction
+- Visualization of factor exposures
+- Performance evaluation
+
+---
+
+## 📈 Portfolio Optimizer
+
+Portfolio optimization using **Modern Portfolio Theory**
+
+Features:
+
+- Efficient frontier computation
+- Portfolio risk-return comparison
+- Optimization using `cvxpy`
+- Market data via `yfinance`
+
+---
+
+## 📉 Monte Carlo Value at Risk
+
+Risk modeling using Monte Carlo simulation.
+
+Features:
+
+- Portfolio loss distribution simulation
+- VaR estimation
+- Jump diffusion modeling
+- Probabilistic risk visualization
+
+---
+
+# 🛠 Tools & Languages
+
+Python  
+C++  
+NumPy / Pandas  
+Monte Carlo Simulation  
+Quantitative Modeling  
+
+---
+
+# 🤝 Collaboration
+
+I’m interested in collaborating on:
+
+- Quant research projects
+- Financial modeling tools
+- Open-source fintech libraries
+- Data-driven trading or risk models
+
+---
+
+# 📫 Contact
+
+📧 Email  
+wiellyhalim92@gmail.com  
+wiellyhalim92@icloud.com  
+
+💼 LinkedIn  
+https://linkedin.com/in/wiellyhalim
+
+---
+
+⚡ This GitHub serves as a **quant research lab** documenting my learning journey toward becoming a quantitative researcher.
