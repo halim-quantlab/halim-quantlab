@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wielly Halim
 
-🚀 Aspiring Quantitative Researcher  
-🎓 Incoming NUS MQF Candidate  
+🚀 Quantitative Researcher  
+🎓 NUS MQF Student 
 💻 Python & C++ for Financial Modeling  
 📍 Singapore  
 
